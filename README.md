@@ -31,10 +31,10 @@ Also if we compare the ratio between entire home/flat and private room listed, w
 
 ## Part 3: What about the price and availability ranges across locations?
 
-<center>Price Range for __Entire home/flat__ by borough
+<center>Price Range for Entire home/flat by borough
 <img src='./Q3-1.png' width='600'>
 
-<center>Price Range for __Private room__ by borough
+<center>Price Range for Private room by borough
 <img src='./Q3-2.png' width='600'>
 
 The listings for each borough covers a wide price range with quite a number of expensive 'outliers', especially for Entier home/flat. We can see a few extremelly expensive listings in areas like Westminster and Camden which covers London's most prestgious places.
