@@ -20,7 +20,6 @@ In total, there are 76,613 London listings which covers almost all London boroug
 
 ## Part 2: What are the room types across different locations?
 
-<center>Number of listings by roome type in each London Borough
 <center><img src='./Q2-1.png' width='450'>
 
 Overall, Entier home/flat (57%) and Private room (41%) dominate the roome types listed in London. More Entier home/flat are available in central London whereas more privte rooms could be found in Zone 3 outwards. 
@@ -31,15 +30,12 @@ Also if we compare the ratio between entire home/flat and private room listed, w
 
 ## Part 3: What about the price and availability ranges across locations?
 
-<center>Price Range for Entire home/flat by borough
 <center><img src='./Q3-1.png' width='600'>
 
-<center>Price Range for Private room by borough
 <center><img src='./Q3-2.png' width='600'>
 
 The listings for each borough covers a wide price range with quite a number of expensive 'outliers', especially for Entier home/flat. We can see a few extremelly expensive listings in areas like Westminster and Camden which covers London's most prestgious places.
 
-<center>Availability Range by borough
 <center><img src='./Q3-3.png' width='600'>
 
 In terms of availability, Hackey, Islington and Lambeth have the lowest availability. These are all areas with high value for money - though not in central London but comparatively cheaper with easy transport links. Better to book early if intersting in staying in those areas.
