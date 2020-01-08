@@ -56,7 +56,7 @@ In this article, we took a brief look at how the Airbnb listings look like acros
    
    3. The listings for each borough covers a wide price range with quite a number of expensive 'outliers', especially if we look at Entier home/flat. We can see a few extremelly expensive listings in areas like Westminster and Camden which covers London's most prestgious places. In terms of availability, Hackey, Islington and Lambeth have the lowest availability. These are all areas with high value for money - though not in central London but comparatively cheaper with easy transport links. 
    
-To see more about this analysis, see the link to my Github available [here]().
+To see more about this analysis, see the link to my Github available [here](https://github.com/TracyH0407/UdacityProject).
 
 ## References 
 
