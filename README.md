@@ -2,7 +2,7 @@
 # How does the Airbnb London listings look like across boroughs?
 
 ![Image of Airbnb](https://i0.wp.com/www.talk2solicitors.co.uk/blog/wp-content/uploads/2017/08/london-airbnb-1.png?fit=609%2C343&ssl=1)
-<center>photo credit:https://www.talk2solicitors.co.uk/blog/is-it-legal-to-rent-out-your-home-on-airbnb-in-london/
+photo credit:https://www.talk2solicitors.co.uk/blog/is-it-legal-to-rent-out-your-home-on-airbnb-in-london/
 
 ## Introduction
 
@@ -14,29 +14,29 @@ The data used is the listings data downloaded from the Inside Airbnb website as 
 
 Here you can see the breakdown of the number of listings posted on the Airbnb website by London boroughs.
 
-<center><img src='./Q1.png' width='600'>
+<img src='./Q1.png' width='600'>
 
 In total, there are 76,613 London listings which covers almost all London boroughs. We can see the Top 2 boroughs in terms of the number of listings are __Westminster__ and __Tower Hamlets__, followed by Kensington and Chelsea, Camden and Hackney. Westminster is close to most of the London tourist attractions and hence popular with tourists. Though Tower Hamlets is a bit further away, it has plenty of residential properties and good transportation links into central London. Both boroughs are relatively large in terms of size among central boroughs. 
 
 ## Part 2: What are the room types across different locations?
 
-<center><img src='./Q2-1.png' width='450'>
+<img src='./Q2-1.png' width='450'>
 
 Overall, Entier home/flat (57%) and Private room (41%) dominate the roome types listed in London. More Entier home/flat are available in central London whereas more privte rooms could be found in Zone 3 outwards. 
 
-<center><img src='./Q2-2.png' width='600'>
+<img src='./Q2-2.png' width='600'>
 
 Also if we compare the ratio between entire home/flat and private room listed, with average number of listings per Host in each borough, we can see that in general where the ratio is high/higher (i.e. more entire home/flat listed than private room), each host tend to have multiple(20+) listings on average, especially in Kensington and Chelsea and Hammersmith and Fulham. These listings are likely to be running as business rather than private homes. 
 
 ## Part 3: What about the price and availability ranges across locations?
 
-<center><img src='./Q3-1.png' width='600'>
+<img src='./Q3-1.png' width='600'>
 
-<center><img src='./Q3-2.png' width='600'>
+<img src='./Q3-2.png' width='600'>
 
 The listings for each borough covers a wide price range with quite a number of expensive 'outliers', especially for Entier home/flat. We can see a few extremelly expensive listings in areas like Westminster and Camden which covers London's most prestgious places.
 
-<center><img src='./Q3-3.png' width='600'>
+<img src='./Q3-3.png' width='600'>
 
 In terms of availability, Hackey, Islington and Lambeth have the lowest availability. These are all areas with high value for money - though not in central London but comparatively cheaper with easy transport links. Better to book early if intersting in staying in those areas.
 
