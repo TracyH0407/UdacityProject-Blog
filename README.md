@@ -1,8 +1,8 @@
 # UdacityProject-Blog
 # How does the Airbnb London listings look like across boroughs?
 
-![Image of Airbnb](https://i0.wp.com/www.talk2solicitors.co.uk/blog/wp-content/uploads/2017/08/london-airbnb-1.png?fit=609%2C343&ssl=1)
-photo credit:https://www.talk2solicitors.co.uk/blog/is-it-legal-to-rent-out-your-home-on-airbnb-in-london/
+![Image of Airbnb](https://i0.wp.com/www.talk2solicitors.co.uk/blog/wp-content/uploads/2017/08/london-airbnb-1.png?fit=609%2C343&ssl=1) <br>
+photo credit:https://www.talk2solicitors.co.uk/blog/is-it-legal-to-rent-out-your-home-on-airbnb-in-london/ <br>
 
 ## Introduction
 
